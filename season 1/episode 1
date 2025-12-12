@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <font color="couleur_rouge"><h1 align="center">Mr.Robot</h1></font>
+    </head>
+    <body>
+        <font color="couleur_rouge"><h3  align="center">The season 1</h3></font>
+        <a href="https://www.youtube.com/watch?v=TEjNPzf67n8">fsociety</a><br>
+        <h4>episode 1</h4>
+        <p>
+            The series begins in the "Ron'coffee" internet café, where Elliot invites himself to sit down at the table of the chain's owner.
+            Elliot tells him that he knows his name is Rohit Mehta and that when he first opened his internet café, he was nicknamed Ron.
+            Elliot also knows that he owns 17 internet cafés and will soon have eight more. Elliot tells him that he likes this particular internet café because it has a gigabit internet connection.
+            Elliot, surprised, starts intercepting the network traffic and notices something strange, then decides to hack it.
+            Elliot discovered that he was hosting a website called "The Sons of Plato" behind the Tor network to remain anonymous.
+            Elliot found him anyway and told him that "onion routing isn't as anonymous as it seems, and by controlling the exit nodes, you control the traffic." 
+            Elliot placed a folder on the table containing all his emails, files, and photos. 
+            The boss told him he was going to call the police.
+            Elliot retorts, "So they can find 100 terabytes of child pornography that he shares with his 400,000 members?"
+            Elliot says things would have been much simpler if it had been sadomasochism.
+            Elliot explains that his father died of leukemia due to radiation from E Corp.
+            Elliot leaves, telling him he's not interested in the money. 
+            Then, the police come to arrest the boss after an anonymous tip from Elliot.
+            Elliot Alderson works at Allsafe, a cybersecurity company. 
+            At night, he hacks into the social media accounts and bank statements of his acquaintances, particularly those of his childhood friend Angela, his therapist Krista, and Shayla, his drug supplier. 
+            He stores this data on CDs disguised as music albums.
+            He regularly uses morphine while also taking Suboxone, a withdrawal medication, to avoid becoming addicted.
+            He also uses his hacking skills to track down criminals and turn them over to the police.
+            E Corp, a conglomerate and Allsafe Security's largest client, is under attack.
+            They initially believe it's a distributed denial-of-service (DDoS) attack, but it turns out to be a rootkit.
+            Elliot stops the attack and secures the evidence (a file named fsociety00.dat), which is actually a message addressed to him instructing him to leave the file on the server, which he does after securing it. 
+            On his way home, Elliot is approached on the subway by Mr. Robot, the man who posted the message.
+            He leads Fsociety, the group of hackers behind the cyberattack. 
+            Mr. Robot is implementing a financial revolution that would lead to a general redistribution of wealth by deleting all of E Corp's financial statements.
+            He wants to convince Elliot to join their cause. Initially hesitant, Elliot eventually agrees. 
+            He blames E Corp's technical director, Terry Colby, for the attack by altering the history file.
+        </p><br>
+        <font color="couleur_rouge"><h3 align="center">The season 2</h3></font>
+    </body>
+</html>
